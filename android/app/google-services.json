@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701304483150",
+    "project_id": "quickshare-6919a",
+    "storage_bucket": "quickshare-6919a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701304483150:android:2192371397d7c2f159021f",
+        "android_client_info": {
+          "package_name": "com.example.quickshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701304483150-7dqpa5sed146ieiji5n5bdfnq4t4g77s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnJG9wAg8HnJM8TiwpH8PgJZbHMmYrlvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701304483150-7dqpa5sed146ieiji5n5bdfnq4t4g77s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
